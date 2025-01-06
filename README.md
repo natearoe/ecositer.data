@@ -12,7 +12,7 @@ You can install the development version of ecositer.data from [GitHub](https://g
 
 ``` r
 # install.packages("ecosite.data")
-pak::pak("natearoe/ecositer.data")
+remotes::install_github("natearoe/ecositer.data")
 ```
 
 ## Example
