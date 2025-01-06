@@ -11,7 +11,7 @@ The goal of ecositer.data is to ...
 You can install the development version of ecositer.data from [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("pak")
+# install.packages("ecosite.data")
 pak::pak("natearoe/ecositer.data")
 ```
 
