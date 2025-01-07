@@ -21,6 +21,6 @@ A sample dataset containing pedon data from the CA792 Soil Survey - Sequoia and 
 data(CA792_pedon_data)
 
 # Display the first few rows
-head(big_data)
+head(CA792_pedon_data)
 }
 \keyword{datasets}
